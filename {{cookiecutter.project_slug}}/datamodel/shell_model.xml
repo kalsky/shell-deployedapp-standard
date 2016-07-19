@@ -11,10 +11,14 @@
               <AttachedAttribute Name="Password" IsOverridable="true" IsLocal="true">
                   <AllowedValues />
               </AttachedAttribute>
+              <AttachedAttribute Name="Public IP" IsOverridable="true" IsLocal="true">
+                  <AllowedValues />
+              </AttachedAttribute>
           </AttachedAttributes>
           <AttributeValues >
               <AttributeValue Name="User" Value="" />
               <AttributeValue Name="Password" Value="" />
+              <AttributeValue Name="Public IP" Value="" />
           </AttributeValues>
           <ParentModels />
           <Drivers>
