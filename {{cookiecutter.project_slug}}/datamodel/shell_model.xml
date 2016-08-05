@@ -3,7 +3,7 @@
     </ShellAttributes>
 
     <ShellModel Family="Generic App Family">
-        <ResourceModel Name="{{ cookiecutter.model_name }}" Description="" SupportsConcurrentCommands="true">
+        <ResourceModel Name="{{ cookiecutter.model_name }}" Description="" SupportsConcurrentCommands="false">
           <AttachedAttributes>
               <AttachedAttribute Name="User" IsOverridable="true" IsLocal="true">
                   <AllowedValues />
